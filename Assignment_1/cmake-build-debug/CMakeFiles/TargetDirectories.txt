@@ -1,0 +1,3 @@
+/Users/louis/Documents/Uni/300_level/cosc363/Assignment_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/louis/Documents/Uni/300_level/cosc363/Assignment_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/louis/Documents/Uni/300_level/cosc363/Assignment_1/cmake-build-debug/CMakeFiles/Museum.out.dir
